@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="networkTools:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/networkTools_jar</output-path>
+    <root id="archive" name="networkTools.jar">
+      <element id="module-output" name="networkTools" />
+    </root>
+  </artifact>
+</component>
